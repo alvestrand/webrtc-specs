@@ -1,0 +1,30 @@
+[submodule "mediacapture-main"]
+	path = mediacapture-main
+	url = git@github.com:w3c/mediacapture-main.git
+[submodule "mediacapture-depth"]
+	path = mediacapture-depth
+	url = git@github.com:w3c/mediacapture-depth.git
+[submodule "mediacapture-image"]
+	path = mediacapture-image
+	url = git@github.com:w3c/mediacapture-image.git
+[submodule "mediacapture-screen-share"]
+	path = mediacapture-screen-share
+	url = git@github.com:w3c/mediacapture-screen-share.git
+[submodule "mediacapture-output"]
+	path = mediacapture-output
+	url = git@github.com:w3c/mediacapture-output.git
+[submodule "mediacapture-record"]
+	path = mediacapture-record
+	url = git@github.com:w3c/mediacapture-record.git
+[submodule "mediacapture-scenarios"]
+	path = mediacapture-scenarios
+	url = git@github.com:w3c/mediacapture-scenarios.git
+[submodule "webrtc-pc"]
+	path = webrtc-pc
+	url = git@github.com:w3c/webrtc-pc.git
+[submodule "webrtc-stats"]
+	path = webrtc-stats
+	url = git@github.com:w3c/webrtc-stats.git
+[submodule "webrtc-charter"]
+	path = webrtc-charter
+	url = git@github.com:w3c/webrtc-charter.git
