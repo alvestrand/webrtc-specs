@@ -28,3 +28,12 @@
 [submodule "webrtc-charter"]
 	path = webrtc-charter
 	url = git@github.com:w3c/webrtc-charter.git
+[submodule "rtcweb-jsep"]
+	path = rtcweb-jsep
+	url = git@github.com:rtcweb-wg/jsep
+[submodule "rtcweb-security-arch"]
+	path = rtcweb-security-arch
+	url = git@github.com:rtcweb-wg/security-arch
+[submodule "rtcweb-security"]
+	path = rtcweb-security
+	url = git@github.com:rtcweb-wg/security
