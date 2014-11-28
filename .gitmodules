@@ -40,3 +40,6 @@
 	url = git@github.com:rtcweb-wg/security
 [submodule "webrtc-depth"]
 	branch = gh-pages
+[submodule "rtcweb-overview"]
+	path = rtcweb-overview
+	url = git@github.com:alvestrand/rtcweb-overview.git
