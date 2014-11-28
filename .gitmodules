@@ -28,6 +28,7 @@
 [submodule "webrtc-charter"]
 	path = webrtc-charter
 	url = git@github.com:w3c/webrtc-charter.git
+	branch = gh-pages
 [submodule "rtcweb-jsep"]
 	path = rtcweb-jsep
 	url = git@github.com:rtcweb-wg/jsep
@@ -37,3 +38,5 @@
 [submodule "rtcweb-security"]
 	path = rtcweb-security
 	url = git@github.com:rtcweb-wg/security
+[submodule "webrtc-depth"]
+	branch = gh-pages
