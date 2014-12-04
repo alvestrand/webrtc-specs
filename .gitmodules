@@ -42,4 +42,7 @@
 	branch = gh-pages
 [submodule "rtcweb-overview"]
 	path = rtcweb-overview
-	url = git@github.com:alvestrand/rtcweb-overview.git
+	url = git@github.com:rtcweb-wg/rtcweb-overview.git
+[submodule "rtcweb-transport"]
+	path = rtcweb-transport
+	url = git@github.com:rtcweb-wg/rtcweb-transport
