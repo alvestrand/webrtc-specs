@@ -46,3 +46,6 @@
 [submodule "rtcweb-transport"]
 	path = rtcweb-transport
 	url = git@github.com:rtcweb-wg/rtcweb-transport
+[submodule "rtcweb-msid"]
+	path = rtcweb-msid
+	url = git@github.com:alvestrand/rtcweb-msid
