@@ -35,6 +35,7 @@ To specify which branch is tracked by "submodule update":
 To change the repository tracked by a branch:
 
   edit .gitmodules to change the URL
+  rm -rf the old repo (just resyncing does NOT overwrite the .git config)
   git submodule sync
   git submodule update --remote
 
