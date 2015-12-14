@@ -49,3 +49,7 @@
 [submodule "rtcweb-msid"]
 	path = rtcweb-msid
 	url = git@github.com:alvestrand/rtcweb-msid
+
+[submodule "rtcweb-gateways"]
+	path = rtcweb-gateways
+	url = git@github.com:/rtcweb-wg/gateways
