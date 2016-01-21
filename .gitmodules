@@ -49,6 +49,9 @@
 [submodule "rtcweb-msid"]
 	path = rtcweb-msid
 	url = git@github.com:alvestrand/rtcweb-msid
+[submodule "rtcweb-gateways"]
+	path = rtcweb-gateways
+	url = git@github.com:/rtcweb-wg/gateways
 [submodule "gcc-rmcat"]
 	path = gcc-rmcat
 	url = git@github.com:ldecicco/gcc-rmcat
@@ -59,4 +62,8 @@
 [submodule "mediacapture-fromelement"]
 	path = mediacapture-fromelement
 	url = git@github.com:w3c/mediacapture-fromelement.git
+	branch = gh-pages
+[submodule "permissions"]
+	path = permissions
+	url = git@github.com:w3c/permissions.git
 	branch = gh-pages

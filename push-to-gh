@@ -1,0 +1,10 @@
+#!/bin/sh
+if [ ! -d .git ]; then
+  echo "Not in a git repo"
+  exit 1
+fi
+set -e
+git checkout gh-pages
+git merge master
+git push origin gh-pages
+git checkout -
