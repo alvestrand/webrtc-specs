@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ ! -d .git ]; then
+if [ ! -e .git ]; then
   echo "Not in a git repo"
   exit 1
 fi
