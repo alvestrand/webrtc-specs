@@ -16,6 +16,24 @@ NOTE: This will likely leave your submodules in "detached head" state.
 It will NOT overwrite your not-checked-in-changes, but it will confuse.
 If you want to push a branch, check it out explicitly.
 
+Build status
+------------
+* ![](https://travis-ci.org/w3c/mediacapture-main.svg?branch=master) mediacapture-main
+* ![](https://travis-ci.org/w3c/webrtc-pc.svg?branch=master) webrtc-pc
+* ![](https://travis-ci.org/w3c/webrtc-stats.svg?branch=master) webrtc-stats
+* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-depth.svg?branch=master) mediacapture-depth
+* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-record.svg?branch=master) mediacapture-record
+* ![](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages) samples
+* ![](https://travis-ci.org/webrtc/testrtc.svg?branch=master) testrtc
+* ![](https://travis-ci.org/webrtc/adapter.svg?branch=master) adapter
+* ![](https://travis-ci.org/webrtc/apprtc.svg?branch=master) apprtc
+
+
 Maintenance
 -----------
 I expect to do this myself; the important info is only what specs exist
