@@ -22,11 +22,11 @@ Build status
 * ![](https://travis-ci.org/w3c/webrtc-pc.svg?branch=master) webrtc-pc
 * ![](https://travis-ci.org/w3c/webrtc-stats.svg?branch=master) webrtc-stats
 * ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
-* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
-* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
-* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-image.svg?branch=master) mediacapture-image
+* ![](https://travis-ci.org/w3c/mediacapture-fromelement.svg?branch=gh-pages) mediacapture-fromelement
+* ![](https://travis-ci.org/w3c/mediacapture-worker.svg?branch=gh-pages) mediacapture-worker
 * ![](https://travis-ci.org/w3c/mediacapture-depth.svg?branch=master) mediacapture-depth
-* ![](https://travis-ci.org/w3c/mediacapture-output.svg?branch=master) mediacapture-output
+* ![](https://travis-ci.org/w3c/mediacapture-screen-share.svg?branch=gh-pages) mediacapture-screen-share
 * ![](https://travis-ci.org/w3c/mediacapture-record.svg?branch=master) mediacapture-record
 * ![](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages) samples
 * ![](https://travis-ci.org/webrtc/testrtc.svg?branch=master) testrtc
