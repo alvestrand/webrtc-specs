@@ -1,0 +1,44 @@
+#!/bin/bash
+#
+# Set a Google Microorb alight with the status of the set of specs
+# for which a Travis build exists.
+#
+# Requires that travis CLI is installed, and that you are logged into Travis.
+#
+# TODO: figure out how to only get status from the master branch.
+#
+GREEN='microorb 00FF00'
+RED='microorb EE0000'
+failures=0
+
+for file in */.travis.yml; do
+  dir=$(dirname $file)
+  url=$(cd $dir; git remote get-url origin)
+  # echo $dir $url
+  repo=$(echo $url | sed -e 's/^git@github.com:\(.*\)\.git$/\1/')
+  # Some repos aren't accessible. Only look at w3c ones.
+  case "$repo" in
+  w3c/mediacapture-depth)
+    echo "Skipping $repo"
+    ;;
+  w3c/*)
+    # echo $repo
+    if travis status -r $repo -x > /dev/null; then
+      # Good status, no action.
+      true
+    else
+      echo "$repo bad"
+      failures=1
+    fi
+    ;;
+  *)
+    # echo "Skipping $url"
+    ;;
+  esac
+done
+
+if [ "$failures" != "0" ]; then
+  $RED
+else
+  $GREEN
+fi
