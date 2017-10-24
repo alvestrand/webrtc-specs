@@ -28,6 +28,9 @@ Build status
 * ![](https://travis-ci.org/w3c/mediacapture-depth.svg?branch=master) mediacapture-depth
 * ![](https://travis-ci.org/w3c/mediacapture-screen-share.svg?branch=gh-pages) mediacapture-screen-share
 * ![](https://travis-ci.org/w3c/mediacapture-record.svg?branch=master) mediacapture-record
+
+WebRTC demo and tools pages:
+
 * ![](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages) samples
 * ![](https://travis-ci.org/webrtc/testrtc.svg?branch=master) testrtc
 * ![](https://travis-ci.org/webrtc/adapter.svg?branch=master) adapter
