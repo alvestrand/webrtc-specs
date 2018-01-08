@@ -47,18 +47,18 @@ If you have new specs to add, send me a pull request.
 
 To add a spec:
 
-  git submodule add git@github.com:<user>/<repo> <local dir for repo>
+  git submodule add git@github.com:&lt;user>/&lt;repo> &lt;local dir for repo>
 
 To specify which branch is tracked by "submodule update":
 
-  git config -f .gitmodules submodule.<spec-directory>.branch <branch name>
+  git config -f .gitmodules submodule.&lt;spec-directory>.branch &lt;branch name>
 
 To change the repository tracked by a branch:
 
-  edit .gitmodules to change the URL
-  rm -rf the old repo (just resyncing does NOT overwrite the .git config)
-  git submodule sync
-  git submodule update --remote
+* edit .gitmodules to change the URL
+* rm -rf the old repo (just resyncing does NOT overwrite the .git config)
+* git submodule sync
+* git submodule update --remote
 
 To push updates on which version is the latest:
 
