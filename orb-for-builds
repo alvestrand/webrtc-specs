@@ -7,7 +7,7 @@
 #
 # TODO: figure out how to only get status from the master branch.
 #
-GREEN='microorb 00FF00'
+GREEN='microorb 21F000'
 RED='microorb EE0000'
 failures=0
 
