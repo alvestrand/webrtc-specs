@@ -5,6 +5,10 @@
 #
 # Requires that travis CLI is installed, and that you are logged into Travis.
 #
+# Travis CLI: https://github.com/travis-ci/travis.rb
+#
+# Uses the microorb tool: apt install microorb-tool
+#
 # TODO: figure out how to only get status from the master branch.
 #
 GREEN='microorb 21F000'

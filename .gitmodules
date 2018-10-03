@@ -68,3 +68,10 @@
 	path = permissions
 	url = git@github.com:w3c/permissions.git
 	branch = gh-pages
+[submodule "webrtc-ice"]
+	path = webrtc-ice
+	url = git@github.com:w3c/webrtc-ice.git
+	branch = master
+[submodule "webrtc-dscp-exp"]
+	path = webrtc-dscp-exp
+	url = git@github.com:w3c/webrtc-dscp-exp.git
