@@ -76,3 +76,10 @@
 	path = webrtc-dscp-exp
 	url = git@github.com:w3c/webrtc-dscp-exp.git
 
+[submodule "audio-worklet"]
+	path = audio-worklet
+	url = git@github.com:alvestrand/audio-worklet
+	branch = master
+[submodule "webrtc-identity"]
+	path = webrtc-identity
+	url = git@github.com:w3c/webrtc-identity.git
