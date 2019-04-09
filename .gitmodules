@@ -83,3 +83,6 @@
 [submodule "webrtc-identity"]
 	path = webrtc-identity
 	url = git@github.com:w3c/webrtc-identity.git
+[submodule "simulcast-ssrc"]
+	path = simulcast-ssrc
+	url = git@github.com:alvestrand/simulcast-ssrc
