@@ -83,3 +83,6 @@
 [submodule "webrtc-identity"]
 	path = webrtc-identity
 	url = git@github.com:w3c/webrtc-identity.git
+[submodule "webrtc-media-streams"]
+	path = webrtc-media-streams
+	url = git@github.com:alvestrand/webrtc-media-streams
