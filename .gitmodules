@@ -86,3 +86,6 @@
 [submodule "webrtc-media-streams"]
 	path = webrtc-media-streams
 	url = git@github.com:alvestrand/webrtc-media-streams
+[submodule "simulcast-ssrc"]
+	path = simulcast-ssrc
+	url = git@github.com:alvestrand/simulcast-ssrc
