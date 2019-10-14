@@ -93,3 +93,6 @@
 	path = webrtc-media-streams
 	url = git@github.com:alvestrand/webrtc-media-streams
 	branch = master
+[submodule "mst-content-hint"]
+	path = mst-content-hint
+	url = git@github.com:w3c/mst-content-hint
