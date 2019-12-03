@@ -102,3 +102,4 @@
 [submodule "mst-content-hint"]
 	path = mst-content-hint
 	url = git@github.com:w3c/mst-content-hint
+	branch = gh-pages
