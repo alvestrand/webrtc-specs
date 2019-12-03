@@ -93,3 +93,9 @@
 	path = webrtc-media-streams
 	url = git@github.com:alvestrand/webrtc-media-streams
 	branch = master
+[submodule "webrtc-extensions"]
+	path = webrtc-extensions
+	url = git@github.com:w3c/webrtc-extensions
+[submodule "webrtc-provisional-stats"]
+	path = webrtc-provisional-stats
+	url = git@github.com:w3c/webrtc-provisional-stats
