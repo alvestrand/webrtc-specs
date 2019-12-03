@@ -99,3 +99,6 @@
 [submodule "webrtc-provisional-stats"]
 	path = webrtc-provisional-stats
 	url = git@github.com:w3c/webrtc-provisional-stats
+[submodule "mst-content-hint"]
+	path = mst-content-hint
+	url = git@github.com:w3c/mst-content-hint
