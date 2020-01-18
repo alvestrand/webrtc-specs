@@ -72,9 +72,9 @@
 	path = webrtc-ice
 	url = git@github.com:w3c/webrtc-ice.git
 	branch = master
-[submodule "webrtc-dscp-exp"]
-	path = webrtc-dscp-exp
-	url = git@github.com:w3c/webrtc-dscp-exp.git
+[submodule "webrtc-priority"]
+	path = webrtc-priorit
+	url = git@github.com:w3c/webrtc-priority.git
 
 [submodule "audio-worklet"]
 	path = audio-worklet
