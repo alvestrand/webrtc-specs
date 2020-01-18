@@ -73,8 +73,8 @@
 	url = git@github.com:w3c/webrtc-ice.git
 	branch = master
 [submodule "webrtc-priority"]
-	path = webrtc-priorit
-	url = git@github.com:w3c/webrtc-priority.git
+	path = webrtc-priority
+	url = git@github.com:w3c/webrtc-priority
 
 [submodule "audio-worklet"]
 	path = audio-worklet
