@@ -50,6 +50,7 @@
 [submodule "rtcweb-msid"]
 	path = rtcweb-msid
 	url = git@github.com:alvestrand/rtcweb-msid
+	branch = master
 [submodule "rtcweb-gateways"]
 	path = rtcweb-gateways
 	url = git@github.com:/rtcweb-wg/gateways
@@ -89,6 +90,7 @@
 [submodule "simulcast-ssrc"]
 	path = simulcast-ssrc
 	url = git@github.com:alvestrand/simulcast-ssrc
+	branch = master
 [submodule "webrtc-media-streams"]
 	path = webrtc-media-streams
 	url = git@github.com:alvestrand/webrtc-media-streams
