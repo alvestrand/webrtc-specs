@@ -84,9 +84,6 @@
 [submodule "webrtc-identity"]
 	path = webrtc-identity
 	url = git@github.com:w3c/webrtc-identity.git
-[submodule "webrtc-media-streams"]
-	path = webrtc-media-streams
-	url = git@github.com:alvestrand/webrtc-media-streams
 [submodule "simulcast-ssrc"]
 	path = simulcast-ssrc
 	url = git@github.com:alvestrand/simulcast-ssrc
@@ -105,3 +102,6 @@
 	path = mst-content-hint
 	url = git@github.com:w3c/mst-content-hint
 	branch = gh-pages
+[submodule "webrtc-encoded-transform"]
+	path = webrtc-encoded-transform
+	url = git@github.com:w3c/webrtc-encoded-transform.git
