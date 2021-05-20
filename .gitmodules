@@ -105,3 +105,7 @@
 [submodule "webrtc-encoded-transform"]
 	path = webrtc-encoded-transform
 	url = git@github.com:w3c/webrtc-encoded-transform.git
+[submodule "mediacapture-extensions"]
+	path = mediacapture-extensions
+	url = git@github.com:w3c/mediacapture-extensions.git
+	branch = main
