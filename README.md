@@ -2,14 +2,14 @@ This repository contains all the Git-tracked documents (that I've found)
 in the WebRTC standards work.
 
 To check out:
-
+```
   git clone --recursive git@github.com:alvestrand/webrtc-specs.git
-
+```
 To update all specs to the most recent version (this takes some time):
-
+```
   git submodule init
   git submodule update --remote
-
+```
 The "init" step is only needed when new repos are added, but does no harm.
 
 NOTE: This will likely leave your submodules in "detached head" state.
