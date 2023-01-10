@@ -109,3 +109,6 @@
 	path = mediacapture-extensions
 	url = git@github.com:w3c/mediacapture-extensions.git
 	branch = main
+[submodule "webrtc-nv-use-cases"]
+	path = webrtc-nv-use-cases
+	url = git@github.com:w3c/webrtc-nv-use-cases
