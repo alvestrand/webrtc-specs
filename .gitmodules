@@ -72,7 +72,7 @@
 [submodule "webrtc-ice"]
 	path = webrtc-ice
 	url = git@github.com:w3c/webrtc-ice.git
-	branch = master
+	branch = main
 [submodule "webrtc-priority"]
 	path = webrtc-priority
 	url = git@github.com:w3c/webrtc-priority
